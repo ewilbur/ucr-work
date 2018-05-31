@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1431123218 source:c:\users\evan\documents\cs projects\cs10\assignments\pig\pig\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<iomanip>
+	<float.h>
+

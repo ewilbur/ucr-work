@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1431140982 source:c:\users\evan\documents\cs projects\cs10\labs\lab7\lab7\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

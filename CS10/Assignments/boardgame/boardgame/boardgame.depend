@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1432426644 source:c:\users\evan\documents\cs projects\cs10\assignments\boardgame\boardgame\main.cpp
+	<iostream>
+	<ctime>
+	<cmath>
+	<cstdlib>
+	<vector>
+

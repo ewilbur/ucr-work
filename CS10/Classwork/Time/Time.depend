@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1428942690 source:c:\users\evan\documents\cs projects\cs10\classwork\time\main.cpp
+	<iostream>
+	<ctime>
+

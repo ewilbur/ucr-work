@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1432519801 source:c:\users\evan\documents\cs projects\cs10\labs\lab9\lab9\main.cpp
+	<vector>
+	<cmath>
+	<iostream>
+

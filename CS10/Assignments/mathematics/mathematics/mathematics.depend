@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1431828420 source:c:\users\evan\documents\cs projects\cs10\assignments\mathematics\mathematics\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+
