@@ -17,14 +17,7 @@ using namespace std;
 
 bool validMap(string charMap) //Quick validation check
 {
-    if(charMap.length() == 26 || charMap == "default")
-    {
-        return true;
-    }
-    else
-    {
-        return false;
-    }
+    return charMap.length() == 26 || charMap == "default";
 }
 
 
